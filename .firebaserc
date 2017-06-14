@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "simplekd-robel",
+    "staging": "simplekd-robel"
+  }
+}
